@@ -42,7 +42,7 @@ body {
   background-position: center;
   background-size: cover;
   height: 100%;
-  background-image: url('the beach.jpeg');
+  background-image: url('https://images.unsplash.com/photo-1546632958-f0a7001a5ed6?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=vincent-van-zalinge-1272787-unsplash.jpg');
 }
 
 .cover-container {
