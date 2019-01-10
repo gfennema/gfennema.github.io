@@ -42,7 +42,7 @@ body {
   background-position: center;
   background-size: cover;
   height: 100%;
-  background-image: url('/Users/gregfennema/Desktop/new startup/the beach.jpeg');
+  background-image: url('the beach.jpeg');
 }
 
 .cover-container {
